@@ -4,7 +4,7 @@ A personalized health recommendation engine using #ChatGPT to interpret your per
 
 This repo contains the core code of the engine using OpenAI's ChatGPT and some prompt engineering.
 
-You can find a demo and some more background here:
+You can find a demo and some more background here: [Twitter Thread](https://twitter.com/enz0benz0/status/1652998546788958210?s=20)
 
 
 # Contribution
